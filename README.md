@@ -17,9 +17,9 @@
     - https://nextjs.org/
     - https://ui.shadcn.com/
 - 사용 DB
-    - 
+    - ..
 - 개발도구
-    - 
+    - ..
 
 ### 💥 AASX to JSON (Phase 1)
 ### Back-end
